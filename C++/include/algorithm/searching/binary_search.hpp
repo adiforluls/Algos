@@ -64,3 +64,5 @@ int binary_search(const T& value, const std::vector<T>& sorted_values) {
 }
 
 #endif // BINARY_SEARCH_HPP
+// problem: https://codeforces.com/contest/834/problem/C
+// solution: https://codeforces.com/contest/834/submission/62824480
